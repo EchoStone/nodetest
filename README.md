@@ -1,2 +1,2 @@
 # nodetest
-node test
+node test !
